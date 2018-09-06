@@ -1,0 +1,3 @@
+<?php
+$arrayError = array ('Veuillez entrer votre nom', 'Veuillez entrer votre prénom', 'Veuillez entrer votre date de naissance', 'Veuillez entrer votre pays', 'Veuillez entrer votre nationalité', 'Veuillez entrer votre adresse', 'Veuillez entrer votre numéro de téléphone', 'Veuillez entrer votre diplôme', 'Veuillez entrer votre numéro pole emploi', 'Veuillez entrer votre nombre de badge', 'Veuillez entrer votre lien codecademy', 'Veuillez entrer votre champs héro', 'Veuillez entrer votre champs hacks', 'Veuillez entrer votre champs expérience');
+?>

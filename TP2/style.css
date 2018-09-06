@@ -1,0 +1,9 @@
+body{
+    background-color: #8892BF;
+}
+.form-group{
+    text-align: center;
+}
+.form-control, #submit{
+    margin-left: 390px;
+}
